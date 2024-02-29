@@ -1,0 +1,37 @@
+go 1.21.5
+
+use (
+	./Assignments/A1
+	./Assignments/A10
+	./Assignments/A11
+	./Assignments/A12
+	./Assignments/A13
+	./Assignments/A14
+	./Assignments/A15
+	./Assignments/A16
+	./Assignments/A17
+	./Assignments/A18
+	./Assignments/A19
+	./Assignments/A2
+	./Assignments/A20
+	./Assignments/A21
+	./Assignments/A22
+	./Assignments/A23
+	./Assignments/A24
+	./Assignments/A25
+	./Assignments/A26
+	./Assignments/A27
+	./Assignments/A28
+	./Assignments/A29
+	./Assignments/A3
+	./Assignments/A4
+	./Assignments/A5
+	./Assignments/A6
+	./Assignments/A7
+	./Assignments/A8
+	./Assignments/A9
+	./Assignments/dateLayout
+	./Assignments/timezones
+	./Minio
+	./Redis
+)
